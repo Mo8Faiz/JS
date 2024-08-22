@@ -17,3 +17,8 @@ var helloworld=function(){
 ans=helloworld();
 console.log(ans);
 
+console.log(typeof(obj));
+console.log(typeof(life));
+console.log(typeof(helloworld));
+
+
